@@ -1,0 +1,2 @@
+1. Het kaarsje verbruikt zuurstof, waardoor er een vacuüm ontstaat en het water omhoog wordt gezogen.
+Deze lijkt niet waarschijnlijk te zijn omdat de water al stijgen voordat het kaarsje doofde(vaccum wordt gecreerd), bovendien toen we de glazen voor 400ml and 100ml gebruiken stegen het water ook, maar er zit een klein opening waardoor er geen vacuum is ontstaan
