@@ -2,3 +2,4 @@ _build
 *.pdf
 .ipynb_checkpoints/
 hidden
+.conda/
